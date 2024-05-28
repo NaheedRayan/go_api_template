@@ -1,1 +1,1 @@
-## This is a basic REST API using GO 
+## This is a basic REST API using Golang and Mux
