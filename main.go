@@ -16,6 +16,7 @@ type Post struct {
   	Title string `json:"title"`
   	Body string `json:"body"`
 }
+
 var posts []Post
 
 func Hello(w http.ResponseWriter, r *http.Request) {
